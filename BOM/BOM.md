@@ -14,6 +14,5 @@ BOM
 
     https://it.aliexpress.com/item/4000140320907.html?spm=a2g0o.productlist.main.41.9f41YEG1YEG1uW&algo_pvid=47ef72e3-5cb6-451a-b2a7-4c09c4fc0d47&algo_exp_id=47ef72e3-5cb6-451a-b2a7-4c09c4fc0d47-40&pdp_ext_f=%7B%22order%22%3A%22338%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2110.16%215.86%21%21%2111.60%216.69%21%402103962917874304336434879e0df9%2112000018464699612%21sea%21IT%214836953499%21X%211%210%21n_tag%3A-29919%3Bd%3Aa64437d9%3Bm03_new_user%3A-29895%3BpisId%3A5000000215431853&curPageLogUid=ayFaZhBlpVms&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000140320907%7C_p_origin_prod%3A
 
-
-
-
+4 x viti M3x20 testa svasata e dadi
+3 x viti M3x10 testa svasata e dadi
