@@ -1,2 +1,2 @@
-WIRING DIAGRAM
+coming soon
 
